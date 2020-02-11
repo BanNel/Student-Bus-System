@@ -5,8 +5,7 @@
 ![image](https://github.com/BanNel/Student-Bus-System/blob/master/Student%20Bus%20System%20Photo/maindesign.png)
 ![image](https://github.com/BanNel/Student-Bus-System/blob/master/Student%20Bus%20System%20Photo/%E5%9C%96%E7%89%87%20040.png)
 
-## Video
-
+## Video (Youtube)
 [![Video](https://img.youtube.com/vi/VRxiqJVsTnI/0.jpg)](https://www.youtube.com/watch?v=VRxiqJVsTnI)
 
 ## Mobile Screenshot (iOS)
